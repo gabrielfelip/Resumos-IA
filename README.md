@@ -1,6 +1,6 @@
 # 📄 Gerador de Resumos Inteligente de PDF e Vídeos com IA
 
-![Demonstração do Projeto](/resumo-ia.gif)
+![Demonstração do Projeto](demo/resumo-ia.gif)
 
 
 Este projeto é uma aplicação web interativa construída com **Streamlit** que permite gerar resumos automáticos de documentos PDF e vídeos do YouTube usando inteligência artificial localmente, com modelos de linguagem como o Mistral via Ollama.
